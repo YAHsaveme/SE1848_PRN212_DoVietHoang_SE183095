@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\bin\Debug\net9.0\DemoDelegate.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\bin\Debug\net9.0\DemoDelegate.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\bin\Debug\net9.0\DemoDelegate.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\bin\Debug\net9.0\DemoDelegate.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\bin\Debug\net9.0\DemoDelegate.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\refint\DemoDelegate.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\DemoDelegate.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoDelegate\obj\Debug\net9.0\ref\DemoDelegate.dll

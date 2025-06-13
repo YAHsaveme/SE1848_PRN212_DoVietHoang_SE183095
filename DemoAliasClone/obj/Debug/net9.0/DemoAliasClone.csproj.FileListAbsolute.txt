@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\bin\Debug\net9.0\DemoAliasClone.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\bin\Debug\net9.0\DemoAliasClone.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\bin\Debug\net9.0\DemoAliasClone.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\bin\Debug\net9.0\DemoAliasClone.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\bin\Debug\net9.0\DemoAliasClone.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\refint\DemoAliasClone.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\DemoAliasClone.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoAliasClone\obj\Debug\net9.0\ref\DemoAliasClone.dll

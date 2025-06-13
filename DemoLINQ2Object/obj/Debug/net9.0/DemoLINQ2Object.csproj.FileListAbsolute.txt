@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\bin\Debug\net9.0\DemoLINQ2Object.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\bin\Debug\net9.0\DemoLINQ2Object.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\bin\Debug\net9.0\DemoLINQ2Object.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\bin\Debug\net9.0\DemoLINQ2Object.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\bin\Debug\net9.0\DemoLINQ2Object.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\refint\DemoLINQ2Object.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\DemoLINQ2Object.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2Object\obj\Debug\net9.0\ref\DemoLINQ2Object.dll

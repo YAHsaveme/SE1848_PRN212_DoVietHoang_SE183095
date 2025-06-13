@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\bin\Debug\net9.0\StringInteraction.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\refint\StringInteraction.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\StringInteraction.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\StringInteraction\obj\Debug\net9.0\ref\StringInteraction.dll

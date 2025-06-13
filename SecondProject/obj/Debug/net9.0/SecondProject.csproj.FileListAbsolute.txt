@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\bin\Debug\net9.0\SecondProject.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\refint\SecondProject.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\SecondProject.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SecondProject\obj\Debug\net9.0\ref\SecondProject.dll

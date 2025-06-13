@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\bin\Debug\net9.0\RefAndOutSample.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\refint\RefAndOutSample.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\RefAndOutSample.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\RefAndOutSample\obj\Debug\net9.0\ref\RefAndOutSample.dll

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ButtonControl_TongHop</id>
+    <version>1.0.0</version>
+    <authors>ButtonControl_TongHop</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e2a6384570fe411a159199047208c5636e07a367" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.runtimeconfig.json" target="lib\net9.0-windows7.0\ButtonControl_TongHop.runtimeconfig.json" />
+    <file src="D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\ButtonControl_TongHop\bin\Debug\net9.0-windows\ButtonControl_TongHop.dll" target="lib\net9.0-windows7.0\ButtonControl_TongHop.dll" />
+  </files>
+</package>

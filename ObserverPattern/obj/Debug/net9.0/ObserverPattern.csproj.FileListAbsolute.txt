@@ -1,0 +1,14 @@
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\bin\Debug\net9.0\ObserverPattern.exe
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\bin\Debug\net9.0\ObserverPattern.deps.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\bin\Debug\net9.0\ObserverPattern.runtimeconfig.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\bin\Debug\net9.0\ObserverPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\bin\Debug\net9.0\ObserverPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfoInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.AssemblyInfo.cs
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\refint\ObserverPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ObserverPattern.genruntimeconfig.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\ObserverPattern\obj\Debug\net9.0\ref\ObserverPattern.dll

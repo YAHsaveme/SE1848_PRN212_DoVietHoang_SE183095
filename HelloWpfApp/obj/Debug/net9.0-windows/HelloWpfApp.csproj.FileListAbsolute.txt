@@ -1,0 +1,45 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\App.g.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.lref
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.g.resources
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\refint\HelloWpfApp.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\ref\HelloWpfApp.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.exe
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.deps.json
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.runtimeconfig.json
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.dll
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\bin\Debug\net9.0-windows\HelloWpfApp.pdb
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\App.g.cs
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.cache
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp_MarkupCompile.lref
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.g.resources
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.AssemblyInfoInputs.cache
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.AssemblyInfo.cs
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.csproj.CoreCompileInputs.cache
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.sourcelink.json
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.dll
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\refint\HelloWpfApp.dll
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.pdb
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\HelloWpfApp.genruntimeconfig.cache
+D:\PRN212\FPT\PRN212-SE1848\PRN212-SE1848\HelloWpfApp\obj\Debug\net9.0-windows\ref\HelloWpfApp.dll

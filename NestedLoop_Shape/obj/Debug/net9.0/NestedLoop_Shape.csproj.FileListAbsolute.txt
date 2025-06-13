@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net9.0\NestedLoop_Shape.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net9.0\NestedLoop_Shape.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net9.0\NestedLoop_Shape.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net9.0\NestedLoop_Shape.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\bin\Debug\net9.0\NestedLoop_Shape.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\refint\NestedLoop_Shape.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\NestedLoop_Shape.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Shape\obj\Debug\net9.0\ref\NestedLoop_Shape.dll

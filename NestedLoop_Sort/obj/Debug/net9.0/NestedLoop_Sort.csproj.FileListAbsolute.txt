@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\bin\Debug\net9.0\NestedLoop_Sort.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\bin\Debug\net9.0\NestedLoop_Sort.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\bin\Debug\net9.0\NestedLoop_Sort.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\bin\Debug\net9.0\NestedLoop_Sort.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\bin\Debug\net9.0\NestedLoop_Sort.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\refint\NestedLoop_Sort.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\NestedLoop_Sort.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\NestedLoop_Sort\obj\Debug\net9.0\ref\NestedLoop_Sort.dll

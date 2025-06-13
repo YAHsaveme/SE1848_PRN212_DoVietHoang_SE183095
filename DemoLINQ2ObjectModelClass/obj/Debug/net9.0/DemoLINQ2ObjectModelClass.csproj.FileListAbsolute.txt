@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\bin\Debug\net9.0\DemoLINQ2ObjectModelClass.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\bin\Debug\net9.0\DemoLINQ2ObjectModelClass.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\bin\Debug\net9.0\DemoLINQ2ObjectModelClass.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\bin\Debug\net9.0\DemoLINQ2ObjectModelClass.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\bin\Debug\net9.0\DemoLINQ2ObjectModelClass.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\refint\DemoLINQ2ObjectModelClass.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\DemoLINQ2ObjectModelClass.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\DemoLINQ2ObjectModelClass\obj\Debug\net9.0\ref\DemoLINQ2ObjectModelClass.dll

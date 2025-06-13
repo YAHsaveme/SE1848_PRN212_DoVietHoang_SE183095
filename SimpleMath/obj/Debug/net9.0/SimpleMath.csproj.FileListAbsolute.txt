@@ -1,0 +1,14 @@
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.exe
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.deps.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.runtimeconfig.json
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\bin\Debug\net9.0\SimpleMath.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfoInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.AssemblyInfo.cs
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.csproj.CoreCompileInputs.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\refint\SimpleMath.dll
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.pdb
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\SimpleMath.genruntimeconfig.cache
+D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\SimpleMath\obj\Debug\net9.0\ref\SimpleMath.dll

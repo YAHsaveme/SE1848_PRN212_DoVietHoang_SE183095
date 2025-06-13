@@ -1,0 +1,14 @@
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.exe
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.deps.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.runtimeconfig.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\bin\Debug\net9.0\FactoriesPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.AssemblyInfoInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.AssemblyInfo.cs
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.csproj.CoreCompileInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\refint\FactoriesPattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\FactoriesPattern.genruntimeconfig.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\FactoriesPattern\obj\Debug\net9.0\ref\FactoriesPattern.dll

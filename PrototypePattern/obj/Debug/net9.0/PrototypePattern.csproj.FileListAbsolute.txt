@@ -1,0 +1,14 @@
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\bin\Debug\net9.0\PrototypePattern.exe
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\bin\Debug\net9.0\PrototypePattern.deps.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\bin\Debug\net9.0\PrototypePattern.runtimeconfig.json
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\bin\Debug\net9.0\PrototypePattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\bin\Debug\net9.0\PrototypePattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.AssemblyInfoInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.AssemblyInfo.cs
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.csproj.CoreCompileInputs.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\refint\PrototypePattern.dll
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.pdb
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\PrototypePattern.genruntimeconfig.cache
+D:\Elearning\CrossPlatform_CSharp\Chapter5\PrototypePattern\obj\Debug\net9.0\ref\PrototypePattern.dll

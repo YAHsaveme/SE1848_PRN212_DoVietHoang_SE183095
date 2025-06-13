@@ -1,0 +1,27 @@
+﻿<Window x:Class="HelloWpfApp.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWpfApp"
+        mc:Ignorable="d"
+        Title="Đăng nhập hệ thống" Height="235" Width="450" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Đăng nhập hệ thống quản lý" HorizontalAlignment="Left" Margin="40,9,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Foreground="#FF217B4C" Grid.ColumnSpan="2" Background="#FFE4DDB9" Width="324" HorizontalContentAlignment="Center"/>
+        <Label Content="_Username:"
+               Target="{Binding ElementName=txtUserName}"
+               HorizontalAlignment="Left" Margin="57,60,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <TextBox x:Name="txtUserName" HorizontalAlignment="Left" Margin="187,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" FontSize="20" Grid.ColumnSpan="2"/>
+        <Label Content="_Password:" 
+               Target="{Binding ElementName=txtPassword}"
+               HorizontalAlignment="Left" Margin="70,109,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="187,109,0,0" VerticalAlignment="Top" Width="230" FontSize="20" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnDangNhap_" Content="Đăng Nhập" HorizontalAlignment="Left" Margin="173,162,0,0" VerticalAlignment="Top" FontSize="20" Click="btnDangNhap__Click"/>
+        <Button x:Name="btnThoat" Content="Thoát" HorizontalAlignment="Left" Margin="325,162,0,0" VerticalAlignment="Top" FontSize="20" Width="92" Grid.ColumnSpan="2" Click="btnThoat_Click"/>
+
+    </Grid>
+</Window>
