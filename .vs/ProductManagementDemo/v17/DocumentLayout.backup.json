@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\accountmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B7BBFFF-25FF-4C90-A51F-5354E5AD2D6A}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC493B4-69A1-4B81-8D4A-1D0518F150FF}|Repositories\\Repositories.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADC493B4-69A1-4B81-8D4A-1D0518F150FF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C7463C6-EE8C-42E1-B6C2-DB3E8CD4BF91}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|d:\\prn212\\lab 01\\lab01_hoang\\se183095 - \u0111\u1ED7 vi\u1EC7t ho\u00E0ng - lab1\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD7B3D5B-ECF6-40FC-84D2-523E2C1ED3D7}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:18.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\AccountDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\AccountDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:10.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:06.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\Category.cs",
+              "RelativeToolTip": "BusinessObjects\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:04.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountMember.cs",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\AccountMember.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\AccountMember.cs",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\AccountMember.cs",
+              "RelativeToolTip": "BusinessObjects\\AccountMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:56:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T09:55:56.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccessLayer",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T09:55:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repositories",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Repositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Repositories\\Repositories.csproj",
+              "RelativeToolTip": "Repositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T09:55:46.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Services",
+              "DocumentMoniker": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\PRN212\\LAB 01\\lab01_hoang\\SE183095 - \u0110\u1ED7 Vi\u1EC7t Ho\u00E0ng - LAB1\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T09:55:44.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
