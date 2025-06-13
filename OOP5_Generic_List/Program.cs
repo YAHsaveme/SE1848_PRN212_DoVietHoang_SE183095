@@ -77,3 +77,48 @@ double pe_sum_salary=employees.OfType<ParttimeEmployee>()
                               .Sum(e => e.calSalary());
 Console.WriteLine("Câu 5: Tổng lương nhân viên thời vụ:");
 Console.WriteLine(pe_sum_salary);
+// Câu 6: U -> SỬA thông tin nhân viên từ bàn phím
+Console.WriteLine("\nCâu 6: U -> Sửa thông tin nhân viên:");
+Console.Write("Nhập ID nhân viên cần sửa: ");
+int updateId = int.Parse(Console.ReadLine());
+
+Employee empToUpdate = employees.FirstOrDefault(e => e.Id == updateId);
+if (empToUpdate != null)
+{
+    Console.Write("Nhập tên mới: ");
+    empToUpdate.Name = Console.ReadLine();
+
+    Console.Write("Nhập IdCard mới: ");
+    empToUpdate.IdCard = Console.ReadLine();
+
+    Console.Write("Nhập ngày sinh mới (yyyy-MM-dd): ");
+    empToUpdate.Birthday = DateTime.Parse(Console.ReadLine());
+
+    Console.WriteLine("Thông tin sau khi sửa:");
+    Console.WriteLine(empToUpdate);
+}
+else
+{
+    Console.WriteLine($"Không tìm thấy nhân viên có ID = {updateId} để sửa.");
+}
+
+// Câu 7: D -> XÓA thông tin nhân viên từ bàn phím
+Console.WriteLine("\nCâu 7: D -> Xóa thông tin nhân viên:");
+Console.Write("Nhập ID nhân viên cần xóa: ");
+int deleteId = int.Parse(Console.ReadLine());
+
+Employee empToDelete = employees.FirstOrDefault(e => e.Id == deleteId);
+if (empToDelete != null)
+{
+    employees.Remove(empToDelete);
+    Console.WriteLine("Đã xóa nhân viên:");
+    Console.WriteLine(empToDelete);
+}
+else
+{
+    Console.WriteLine($"Không tìm thấy nhân viên có ID = {deleteId} để xóa.");
+}
+
+// Câu 8: R -> Xuất lại toàn bộ nhân sự sau khi sửa và xóa
+Console.WriteLine("\nCâu 8: R -> Danh sách nhân sự sau khi sửa và xóa:");
+employees.ForEach(e => Console.WriteLine(e));
