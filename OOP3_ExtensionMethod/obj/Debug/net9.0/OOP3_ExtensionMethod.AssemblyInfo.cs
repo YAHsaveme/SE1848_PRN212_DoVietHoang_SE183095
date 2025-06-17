@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP3_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889a8de778e4ad4bac3b36ea3c1e7900cff34b6e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6caf231c28bc57cc3597997b6df33f3d310c8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP3_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP3_ExtensionMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

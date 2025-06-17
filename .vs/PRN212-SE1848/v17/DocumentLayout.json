@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41487FDB-26DD-4EC8-8074-3BC4714F9D0E}|SE1848_ListControl\u002BWPF\\SE1848_ListControl\u002BWPF.csproj|d:\\prn212\\fpt\\prn212-se1848\\se1848_listcontrol\u002Bwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41487FDB-26DD-4EC8-8074-3BC4714F9D0E}|SE1848_ListControl\u002BWPF\\SE1848_ListControl\u002BWPF.csproj|solutionrelative:se1848_listcontrol\u002Bwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41487FDB-26DD-4EC8-8074-3BC4714F9D0E}|SE1848_ListControl\u002BWPF\\SE1848_ListControl\u002BWPF.csproj|d:\\prn212\\fpt\\prn212-se1848\\se1848_listcontrol\u002Bwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{41487FDB-26DD-4EC8-8074-3BC4714F9D0E}|SE1848_ListControl\u002BWPF\\SE1848_ListControl\u002BWPF.csproj|solutionrelative:se1848_listcontrol\u002Bwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66F84F70-7B67-4C8F-A354-DC0BEF297597}|Control_CoBan2\\Control_CoBan2.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,6 +80,31 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\SE1848_ListControl\u002BWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SE1848_ListControl\u002BWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\SE1848_ListControl\u002BWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SE1848_ListControl\u002BWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T07:04:24.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\SE1848_ListControl\u002BWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SE1848_ListControl\u002BWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\SE1848_ListControl\u002BWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SE1848_ListControl\u002BWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAHCNwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:04:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Control_CoBan3\\MainWindow.xaml",
               "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml",
@@ -82,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Control_CoBan3\\MainWindow.xaml.cs",
@@ -95,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan2\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Control_CoBan2\\MainWindow.xaml",
@@ -106,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan2\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Control_CoBan2\\MainWindow.xaml.cs",
@@ -118,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\Program.cs",
               "RelativeDocumentMoniker": "OOP5_Generic_List\\Program.cs",
@@ -130,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OOP5_Generic_List.csproj",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj",
               "RelativeDocumentMoniker": "OOP5_Generic_List\\OOP5_Generic_List.csproj",
@@ -138,11 +171,12 @@
               "RelativeToolTip": "OOP5_Generic_List\\OOP5_Generic_List.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-13T16:38:51.219Z"
+              "WhenOpened": "2025-06-13T16:38:51.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\HelloWpfApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml.cs",
@@ -154,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\HelloWpfApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HelloWpfApp\\MainWindow.xaml",
@@ -165,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml.cs",
@@ -177,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\ButtonControl_TongHop\\App.xaml",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\App.xaml",
@@ -188,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\ButtonControl_TongHop\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\AssemblyInfo.cs",
@@ -200,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\HelloWpfApp\\App.xaml",
               "RelativeDocumentMoniker": "HelloWpfApp\\App.xaml",
@@ -211,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\HelloWpfApp\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "HelloWpfApp\\AssemblyInfo.cs",
@@ -223,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\ButtonControl_TongHop\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ButtonControl_TongHop\\MainWindow.xaml",
