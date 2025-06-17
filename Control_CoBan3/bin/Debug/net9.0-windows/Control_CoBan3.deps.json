@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Control_CoBan3/1.0.0": {
+        "runtime": {
+          "Control_CoBan3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Control_CoBan3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

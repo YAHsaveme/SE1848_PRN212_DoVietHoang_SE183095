@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57000BBA-54A6-4F14-8C32-D6A7944BA40F}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{57000BBA-54A6-4F14-8C32-D6A7944BA40F}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57000BBA-54A6-4F14-8C32-D6A7944BA40F}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57000BBA-54A6-4F14-8C32-D6A7944BA40F}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{667BAB70-83D7-4CF1-8123-A4498ED90B78}|Control_CoBan3\\Control_CoBan3.csproj|solutionrelative:control_coban3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66F84F70-7B67-4C8F-A354-DC0BEF297597}|Control_CoBan2\\Control_CoBan2.csproj|d:\\prn212\\fpt\\prn212-se1848\\control_coban2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,29 +66,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Control_CoBan3\\MainWindow.xaml",
               "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml",
               "RelativeToolTip": "Control_CoBan3\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T06:26:14.176Z",
+              "WhenOpened": "2025-06-17T06:39:51.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Control_CoBan3\\MainWindow.xaml.cs",
               "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan3\\MainWindow.xaml.cs",
               "RelativeToolTip": "Control_CoBan3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T06:26:14.039Z",
               "EditorCaption": ""
@@ -102,8 +102,7 @@
               "ToolTip": "D:\\PRN212\\FPT\\PRN212-SE1848\\Control_CoBan2\\MainWindow.xaml",
               "RelativeToolTip": "Control_CoBan2\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T06:10:18.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:10:18.158Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "Control_CoBan2\\MainWindow.xaml.cs",
               "ViewState": "AgIAACkAAAAAAAAAAADwvzYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:10:17.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:10:17.895Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "OOP5_Generic_List\\Program.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T16:38:56.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T16:38:56.75Z"
             },
             {
               "$type": "Document",
