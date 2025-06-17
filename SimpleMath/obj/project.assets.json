@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\SimpleMath\\SimpleMath.csproj",
+      "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\SimpleMath\\SimpleMath.csproj",
       "projectName": "SimpleMath",
-      "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\SimpleMath\\SimpleMath.csproj",
+      "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\SimpleMath\\SimpleMath.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\SimpleMath\\obj\\",
+      "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\SimpleMath\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

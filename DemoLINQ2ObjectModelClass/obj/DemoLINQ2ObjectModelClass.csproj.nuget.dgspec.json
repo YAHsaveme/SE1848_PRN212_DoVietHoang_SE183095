@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj": {}
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj": {}
   },
   "projects": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
         "projectName": "DemoLINQ2ObjectModelClass",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\DemoLINQ2ObjectModelClass.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\DemoLINQ2ObjectModelClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

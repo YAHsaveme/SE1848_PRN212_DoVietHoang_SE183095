@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj": {}
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj": {}
   },
   "projects": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj",
         "projectName": "FactoriesPattern",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\FactoriesPattern\\FactoriesPattern.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\FactoriesPattern\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\FactoriesPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

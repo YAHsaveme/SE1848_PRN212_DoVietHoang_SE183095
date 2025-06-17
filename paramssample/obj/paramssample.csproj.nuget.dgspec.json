@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\paramssample\\paramssample.csproj": {}
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\paramssample\\paramssample.csproj": {}
   },
   "projects": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\paramssample\\paramssample.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\paramssample\\paramssample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\paramssample\\paramssample.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\paramssample\\paramssample.csproj",
         "projectName": "paramssample",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\paramssample\\paramssample.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\paramssample\\paramssample.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\paramssample\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\paramssample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

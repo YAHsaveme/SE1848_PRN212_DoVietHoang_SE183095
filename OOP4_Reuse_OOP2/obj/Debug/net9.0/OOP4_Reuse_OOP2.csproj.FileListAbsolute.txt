@@ -19,3 +19,25 @@ D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP4_Reuse_OOP2\
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.pdb
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.genruntimeconfig.cache
 D:\FPT\PRN212-Basis Cross-Platform CSharp\Pratice\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\ref\OOP4_Reuse_OOP2.dll
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP2.deps.json
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP2.runtimeconfig.json
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP2.exe
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP4_Reuse_OOP2.exe
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP4_Reuse_OOP2.deps.json
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP4_Reuse_OOP2.runtimeconfig.json
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP4_Reuse_OOP2.dll
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP4_Reuse_OOP2.pdb
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP2.dll
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\bin\Debug\net9.0\OOP2.pdb
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.csproj.AssemblyReference.cache
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.AssemblyInfoInputs.cache
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.AssemblyInfo.cs
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.csproj.CoreCompileInputs.cache
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.sourcelink.json
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reu.8F7C426F.Up2Date
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.dll
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\refint\OOP4_Reuse_OOP2.dll
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.pdb
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\OOP4_Reuse_OOP2.genruntimeconfig.cache
+D:\PRN212\FPT\PRN212-SE1848\OOP4_Reuse_OOP2\obj\Debug\net9.0\ref\OOP4_Reuse_OOP2.dll

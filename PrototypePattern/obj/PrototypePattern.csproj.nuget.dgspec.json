@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj": {}
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj": {}
   },
   "projects": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj",
         "projectName": "PrototypePattern",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PrototypePattern\\PrototypePattern.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\PrototypePattern\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PrototypePattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

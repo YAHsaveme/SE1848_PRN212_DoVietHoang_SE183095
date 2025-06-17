@@ -701,11 +701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+      "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
       "projectName": "Lucy_SalesDataManagement",
-      "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
+      "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\Lucy_SalesDataManagement\\Lucy_SalesDataManagement.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\Lucy_SalesDataManagement\\obj\\",
+      "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\Lucy_SalesDataManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj": {}
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj": {}
   },
   "projects": {
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\OOP2.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\OOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\OOP2.csproj",
         "projectName": "OOP2",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\OOP2.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\OOP2.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj": {
+    "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj",
+        "projectUniqueName": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj",
         "projectName": "OOP5_Generic_List",
-        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj",
+        "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\OOP5_Generic_List.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP5_Generic_List\\obj\\",
+        "outputPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP5_Generic_List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\OOP2.csproj": {
-                "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\PRN212-SE1848\\OOP2\\OOP2.csproj"
+              "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\OOP2.csproj": {
+                "projectPath": "D:\\PRN212\\FPT\\PRN212-SE1848\\OOP2\\OOP2.csproj"
               }
             }
           }
